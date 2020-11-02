@@ -1,4 +1,4 @@
-.places__place__website__link{
+.places__website-link{
 font-family: Inter;
 font-style: normal;
 font-weight: normal;
@@ -9,6 +9,6 @@ text-decoration-line: underline;
 color: #FFFFFF;
 }
 
-.places__place__website__link:hover{
+.places__website-link:hover{
     animation: hover-opacity linear 0.5s forwards;
 }

@@ -1,4 +1,4 @@
-.places__place__image{
+.places__image{
     max-width:100%;
     margin: 0 0 0 0;
     grid-column: 1;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 320px){
-    .places__place__image{
+    .places__image{
         grid-row: 2;
 /* or 110% */
     }

@@ -1,17 +1,17 @@
-.places__place__paragraph{
+.places__paragraph{
  margin: 26px 0 0 0; 
 }
 
-.places__place__paragraph:first-of-type{
+.places__paragraph:first-of-type{
     margin: 0 0 0 0; 
 }
 
 @media screen and (max-width: 320px){
-    .places__place__paragraph{
+    .places__paragraph{
         margin: 25px 16px 0 16px; 
 /* or 110% */
     }
-    .places__place__paragraph:first-of-type{
+    .places__paragraph:first-of-type{
         margin: 0 16px 0 16px; 
     }
 }

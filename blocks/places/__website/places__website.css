@@ -1,4 +1,4 @@
-.places__place__website{
+.places__website{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (max-width: 320px){
-    .places__place__website{
+    .places__website{
         display: none;
 /* or 110% */
     }
