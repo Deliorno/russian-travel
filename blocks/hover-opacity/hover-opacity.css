@@ -1,0 +1,4 @@
+@keyframes hover-opacity{
+    from{opacity: 1;}
+    to{opacity: 0.7;}
+}
