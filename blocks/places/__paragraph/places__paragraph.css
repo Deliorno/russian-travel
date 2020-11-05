@@ -6,7 +6,7 @@
     margin: 0 0 0 0; 
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 620px){
     .places__paragraph{
         margin: 25px 16px 0 16px; 
 /* or 110% */

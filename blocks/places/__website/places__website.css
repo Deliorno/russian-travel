@@ -10,7 +10,7 @@
     padding:0;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 620px){
     .places__website{
         display: none;
 /* or 110% */

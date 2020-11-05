@@ -16,7 +16,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 620px){
     .places__paragraphs{
         grid-column: 1;
         grid-row: 3;
