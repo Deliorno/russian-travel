@@ -5,4 +5,4 @@ https://deliorno.github.io/russian-travel/
 
 Выполнен с использованием гридов...много гридов!
 
-Технологии: HTML, CSS, JS
+Технологии: HTML, CSS
